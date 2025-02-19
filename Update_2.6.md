@@ -1,6 +1,6 @@
 # Upgrade POP Node to Devnet v2.6
 
-- If your are starting new node follow this guide ---> [Devnet_2](https://github.com/colonyairdrops/pipe_popCDN/blob/main/Devnet_2.md)
+- If your are starting new node follow this guide ---> [Devnet_2](https://github.com/Mhtb9800/Pipe-network-devnet-2/blob/main/README.md)
 
 ---
 
