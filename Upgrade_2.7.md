@@ -1,6 +1,6 @@
 # Upgrade POP Node to Devnet v2.7
 
-- If your are starting new node follow this guide ---> [Devnet_2](https://github.com/colonyairdrops/pipe_popCDN/blob/main/Devnet_2.md)
+- If your are starting new node follow this guide ---> [Devnet_2](https://github.com/Mhtb9800/Pipe-network-devnet-2/blob/main/README.md)
 - For Users who are already running version lower than 2.6 and missed the last upgrade (2.6) first make sure to upgrade to 2.6 then to 2.7 to avoid any confusion alternatively if you know how to do it you can directly jump to 2.7
 ---
 
